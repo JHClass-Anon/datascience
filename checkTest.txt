@@ -1,1 +1,2 @@
-check this
+R is software
+R is free software
